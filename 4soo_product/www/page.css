@@ -1,0 +1,258 @@
+
+
+.menClothBox #box4 {
+    float: none;
+    height: 140px;
+    width: 100%;
+    background-color: rgb(142, 178, 197);
+    overflow: hidden;
+    position: relative;
+
+}
+
+.menClothBox #box3 {
+    float: left;
+    height: 121px;
+    width: 7.332499%;
+    background-color: rgb(248, 91, 62);
+    overflow: hidden;
+    position: relative;
+}
+
+.menClothBox #box5 {
+    float: center;
+    height: 200px;
+    width: 100%;
+    background-color: rgb(249, 191, 118);
+    position: relative;
+
+    overflow: hidden;
+}
+
+.menClothBox #box12 {
+    float: none;
+    height: 300px;
+    width: 53.998843%;
+    background-color: rgb(83, 97, 132);
+    position: relative;
+    overflow: hidden;
+    visibility: visible;
+    right: auto;
+}
+
+.menClothBox #box7 {
+    float: left;
+    height: 300px;
+    width: 26.997975%;
+    background-color: rgb(248, 91, 62);
+    position: relative;
+    overflow: hidden;
+    visibility: visible;
+}
+
+.menClothBox #box14 {
+    float: left;
+    height: 300px;
+    width: 53.791956%;
+    background-color: rgb(206, 199, 198);
+    position: relative;
+    overflow: hidden;
+    visibility: visible;
+}
+
+.menClothBox #box15 {
+    float: right;
+    height: 300px;
+    width: 46.082176%;
+    background-color: rgb(48, 40, 38);
+    position: relative;
+    overflow: hidden;
+    visibility: visible;
+    right: 0px;
+}
+
+
+
+
+
+
+.menClothBox #box6 {
+    float: left;
+    height: 60px;
+    clear: none;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    background-color: rgb(130, 87, 32);
+}
+.menClothBox  #box6 img{
+    width: 35% !important;
+ }
+.menClothBox #box17 {
+    float: left;
+    height: 300px;
+    clear: none;
+    width: 27%;
+    position: relative;
+    overflow: hidden;
+    background-color: rgb(49, 154, 107);
+}
+
+.menClothBox #box22 {
+    float: left;
+    height: 300px;
+    clear: left;
+    width: 26.999421%;
+    position: relative;
+    overflow: hidden;
+    background-color: rgb(114, 106, 155);
+}
+
+.menClothBox #box13 {
+    float: left;
+    height: 300px;
+    width: 26.997975%;
+    position: relative;
+    overflow: hidden;
+    background-color: rgb(49, 154, 107);
+    display: none;
+}
+
+.menClothBox #box8 {
+    float: right;
+    height: 300px;
+    width: 18.997396%;
+    position: relative;
+    overflow: hidden;
+    background-color: rgb(83, 132, 109);
+    right: 0px;
+}
+
+
+
+
+
+.menClothBox #box18 {
+    float: left;
+    height: 300px;
+    width: 27%;
+    position: relative;
+    overflow: hidden;
+    background-color: rgb(63, 53, 98);
+}
+.menClothBox #box18 img{
+    width:45% !important;
+}
+
+
+
+.menClothBox #box19 {
+    float: left;
+    height: 300px;
+    width: 54%;
+    position: relative;
+    overflow: hidden;
+    display: block;
+    background-color: rgb(249, 191, 118);
+}
+
+
+.menClothBox #box20 {
+    float: left;
+    height: 300px;
+    clear: right;
+    width: 27%;
+    position: relative;
+    overflow: hidden;
+    display: block;
+    background-color: rgb(208, 50, 58);
+}
+
+
+.menClothBox  #box21 
+ {
+    height: 600px;
+    clear: none;
+    width: 18.998843%;
+    position: relative;
+    overflow: hidden;
+    display: block;
+    background-color: rgb(122, 210, 140);
+    right: 0px;
+}
+.menClothBox #box21 img{
+    width: 60% !important;
+}
+
+.menClothBox #box16 {
+    float: left;
+    height: 300px;
+    clear: none;
+    width: 27%;
+    position: relative;
+    overflow: hidden;
+    background-color: rgb(114, 106, 155);
+    right: auto;
+}
+
+
+.menClothBox #box1 {
+    float: left;
+    height: 119px;
+    clear: both;
+    width: 14.997124%;
+    overflow: hidden;
+    position: fixed;
+    right: -1891.5px;
+    background-color: rgb(54, 65, 81);
+    bottom: -859px;
+}
+
+.menClothBox #box2 {
+    float: left;
+    height: 300px;
+    clear: left;
+    width: 26.999421%;
+    position: relative;
+    overflow: hidden;
+    background-color: rgb(114, 106, 155);
+}
+
+
+.menClothBox #box {
+    float: left;
+    height: 119px;
+    clear: none;
+    width: 14.994725%;
+    overflow: hidden;
+    position: fixed;
+    display: block;
+    z-index: 3;
+    bottom: 0px;
+    background-color: rgb(54, 65, 81);
+    right: 0px;
+}
+.menClothBox div.horizontal img{
+    
+    width:80%;
+    position: relative;
+    float: center;
+    display: block;
+    left: auto;
+    top: auto;
+
+}
+.menClothBox div.square img{
+    width : 55% !important;
+}
+.menClothBox img{
+    position: relative !important;
+    
+}
+.menClothBox #logo{
+    position: relative !important;
+    width: 15% !important;
+}
+.menClothBox .clearfix[id^='box']:hover{
+    opacity: 0.8;
+}

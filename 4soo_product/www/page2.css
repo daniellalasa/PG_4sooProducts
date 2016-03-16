@@ -1,0 +1,176 @@
+
+.clothbox #box1 {
+    float: left;
+    width: 50%;
+    background-color: rgb(142, 178, 197);
+    overflow: hidden;
+}
+
+.clothbox #box2 {
+    float: left;
+    width: 50%;
+    background-color: rgb(59, 63, 71);
+    overflow: hidden;
+}
+
+.clothbox #box {
+    float: left;
+    height: 83px;
+    margin-left: 0%;
+    margin-top: 1px;
+    clear: none;
+    width: 7.678076%;
+    background-color: rgb(248, 91, 62);
+    overflow: hidden;
+}
+
+.clothbox #box3 {
+
+    width: 100%;
+    background-color: rgb(249, 191, 118);
+    position: relative;
+    overflow: hidden;
+}
+
+.clothbox #box11 {
+
+    width: 50%;
+    margin-right: 0%;
+    background-color: rgb(184, 129, 59);
+    position: relative;
+    overflow: hidden;
+    visibility: visible;
+}
+
+.clothbox #box5 {
+    float: left;
+    width: 50%;
+    background-color: rgb(214, 157, 86);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.clothbox #box4 {
+    float: left;
+    clear: both;
+    width: 50%;
+    background-color: rgb(184, 129, 59);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.clothbox #box6 {
+    float: left;
+
+    width: 50%;
+
+    background-color: rgb(214, 157, 86);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+
+}
+
+.clothbox #box7 {
+    float: left;
+
+    width: 50%;
+    background-color: rgb(184, 129, 59);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.clothbox #box8 {
+    float: left;
+    width: 50%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background-color: rgb(184, 129, 59);
+    overflow: hidden;
+
+}
+
+.clothbox #box9 {
+    float: left;
+    width: 50%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background-color: rgb(214, 157, 86);
+    overflow: hidden;
+}
+.clothbox #box10 {
+    float: left;
+    width: 50%;
+    margin-right: 0%;
+    background-color: rgb(214, 157, 86);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.clothbox #box12 {
+    float: left;
+    width: 50%;
+    background-color: rgb(208, 50, 58);
+    overflow: hidden;
+}
+
+
+
+.clothbox #box13 {
+    float: left;
+    width: 15%;
+    background-color: rgb(54, 65, 81);
+    margin-right: 0%;
+    overflow: hidden;
+}
+
+.clothbox #box14 {
+    float: left;
+    height: 119px;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 70%;
+    border-right-width: 2px;
+    border-right-style: solid;
+    border-left-width: 2px;
+    border-left-style: solid;
+    border-left-color: rgb(147, 180, 202);
+    border-right-color: rgb(147, 180, 202);
+    margin-right: 0%;
+    overflow: hidden;
+}
+
+.clothbox #box15 {
+    float: left;
+    height: 119px;
+    margin-left: 0.03035384%;
+    margin-top: 0px;
+    clear: none;
+    width: 15%;
+    background-color: rgb(54, 65, 81);
+    margin-right: 0%;
+    overflow: hidden;
+}
+
+.clothbox img{
+    position: absolute;
+    display: block;
+}
+.clothbox{
+
+    margin:0;
+    display: block;
+
+}

@@ -1,0 +1,84 @@
+
+ 
+.blink {
+    animation:fade 3000ms infinite;
+    -webkit-animation:fade 3000ms infinite;
+}
+
+body{
+    background-color:#3f5d67 !important;
+    overflow: hidden;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+#website-logo{
+    margin-top:5%;
+}
+.header {
+    margin-top: -5%;
+}
+#username
+{
+    background: url("../img/username.png") no-repeat scroll 0 0/100% rgba(0, 0, 0, 0);
+    width: 100%;
+    height: 100%;
+    border: none;
+    font-size:3vw;
+    padding:1vw 6vw;
+    color: white;
+    font-family: "Century Gothic";
+    margin-bottom: -0.5vw;
+}
+#password
+{
+    background: url("../img/password.png") no-repeat scroll 0 0/100% rgba(0, 0, 0, 0);
+    width: 100%;
+    height: 100%;
+    border: none;
+    font-size:3vw;
+    padding:1vw 6vw;
+    color: white;
+    font-family: "Century Gothic";
+    margin-bottom: -0.5vw;
+    margin-top: 5%;
+}
+.login
+{
+    padding-top:7%;
+}
+.login a
+{
+    margin:-5% 13%;
+    color: white;
+    font-size: 2vw;
+}
+.footer-button
+{
+    margin-top:10%;
+}
+.footer-button input[type='submit']
+{
+    background: url("../img/login-btn.png") no-repeat scroll 0 0/100% rgba(0, 0, 0, 0);  
+    border: none;
+    width: 17vw;
+    height:5vw;  
+}
+
+.footer-button input[type='submit']:focus
+{
+    opacity: 0.6;
+}
+
+.btn-border
+{
+    background: url("../img/login-btn-border.png") no-repeat scroll 0 0/100% rgba(0, 0, 0, 0);  
+    border: none;   
+    width: 38vw; 
+    height: 7vw;
+    padding-top:0.9vw;
+}
+
+.row .login
+{
+    margin-top: 11vw;
+}
